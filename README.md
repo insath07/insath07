@@ -116,7 +116,7 @@ A collaborative **Java console application** developed for the CIT300 Data Struc
 
 **Enterprise software · Modern applications · AI solutions · Automation · Digital experiences**
 
-[![Visit Tekryn](https://img.shields.io/badge/Visit_Tekryn-tekryn.com-00bdd6?style=for-the-badge&labelColor=0b1830)](https://tekryn.com)
+[![Visit Tekryn](https://img.shields.io/badge/Visit_Tekryn-infotekryn.com-00bdd6?style=for-the-badge&labelColor=0b1830)](https://infotekryn.com)
 [![Email](https://img.shields.io/badge/Let's_Talk-Email_Me-0c6f91?style=for-the-badge&labelColor=0b1830&logo=gmail&logoColor=white)](mailto:mohammedimmmu678@gmail.com)
 
 </div>
