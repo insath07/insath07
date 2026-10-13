@@ -6,7 +6,7 @@
 
 <br />
 
-[![Tekryn](https://img.shields.io/badge/TEKRYN-Digital%20Solutions-00bdd6?style=for-the-badge&labelColor=0b1830)](https://tekryn.com)
+[![Tekryn](https://img.shields.io/badge/TEKRYN-Digital%20Solutions-00bdd6?style=for-the-badge&labelColor=0b1830)](https://infotekryn.com)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-0c6f91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedimmmu678@gmail.com)
 [![Followers](https://img.shields.io/github/followers/insath07?style=for-the-badge&label=Followers&labelColor=0b1830&color=087b9b&logo=github)](https://github.com/insath07?tab=followers)
 
